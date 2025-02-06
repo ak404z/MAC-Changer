@@ -1,5 +1,5 @@
 # Description
-This Tool will change your MAC address.
+This Tool will change your MAC address
 
 # Installation
 
